@@ -17,3 +17,8 @@ node_modules
 package-lock.json
 
 *.pyc
+exercises/c-sharp/apprentice-bootcamp-fundamentals-2/.vs/apprentice-bootcamp-fundamentals-2/v16/.suo
+exercises/c-sharp/apprentice-bootcamp-fundamentals-2/.vs/apprentice-bootcamp-fundamentals-2/v16/Server/sqlite3/db.lock
+exercises/c-sharp/apprentice-bootcamp-fundamentals-2/.vs/apprentice-bootcamp-fundamentals-2/v16/Server/sqlite3/storage.ide-shm
+exercises/c-sharp/apprentice-bootcamp-fundamentals-2/.vs/apprentice-bootcamp-fundamentals-2/v16/Server/sqlite3/storage.ide
+exercises/c-sharp/apprentice-bootcamp-fundamentals-2/.vs/apprentice-bootcamp-fundamentals-2/v16/Server/sqlite3/storage.ide-wal
